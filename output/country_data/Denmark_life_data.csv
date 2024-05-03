@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Denmark,2020,4,65.643379976305,4,220870.0,4,16793.304674045678,4,33.985838772513524,4,318.75,4,512.4922320000001
 1,Denmark,2025,4,63.61269328448851,4,220870.0,4,16219.034655957026,4,32.11661764002531,4,246.8371,4,456.4587179999998
 2,Denmark,2030,4,61.60978579289811,4,220870.0,4,15700.610598591207,4,30.2473965075371,4,214.14950000000002,4,347.7625860000003

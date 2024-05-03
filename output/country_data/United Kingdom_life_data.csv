@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,United Kingdom,2020,4,44.82391447496931,4,812729.9999999999,4,15685.700869515926,4,324.66410613225383,4,372.3,4,540.0100960000002
 1,United Kingdom,2025,4,43.119312021488604,4,812729.9999999999,4,15812.745797771591,4,306.8075802949798,4,284.6757,4,480.62025400000033
 2,United Kingdom,2030,4,41.2532713504484,4,812729.9999999999,4,15944.75026935339,4,288.95105445770633,4,244.84660000000005,4,366.4354222857149

@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Slovenia,2020,4,36.2877372212042,4,14120.0,4,11760.59109614732,4,15.689482363785007,4,233.75,4,547.924156
 1,Slovenia,2025,4,34.1558211105829,4,14120.0,4,11206.608128337482,4,14.826560833776808,4,188.7642,4,488.1064797142854
 2,Slovenia,2030,4,32.1675715847867,4,14120.0,4,10737.148280985612,4,13.963639303768629,4,168.3163,4,371.8056772857145

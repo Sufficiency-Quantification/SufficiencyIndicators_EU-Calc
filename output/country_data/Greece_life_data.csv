@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Greece,2020,4,56.611676893625194,4,76680.0,4,10271.065963506791,4,56.41563236181062,4,252.45,4,537.49128
 1,Greece,2025,4,55.11102829720478,4,76680.0,4,10264.394507571327,4,53.312772581910956,4,200.9895,4,478.550112857143
 2,Greece,2030,4,53.505954169688096,4,76680.0,4,10308.070286275011,4,50.2099128020115,4,177.59829999999997,4,364.72622571428604

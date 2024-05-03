@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Czech Republic,2020,4,37.5031793523716,4,175280.0,4,10347.485457068045,4,68.59278550106133,4,244.8,4,477.65588799999983
 1,Czech Republic,2025,4,35.5612495579063,4,175280.0,4,9907.345817251356,4,64.82018229850286,4,196.47439999999995,4,425.5060548571428
 2,Czech Republic,2030,4,33.7080181626734,4,175280.0,4,9517.748758682534,4,61.04757909594446,4,174.50820000000002,4,324.1236382857142

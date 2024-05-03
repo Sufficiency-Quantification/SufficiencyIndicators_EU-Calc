@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Croatia,2020,4,43.3984312488561,4,35440.0,4,8401.917155775174,4,16.728777214744476,4,248.2,4,485.36565200000007
 1,Croatia,2025,4,42.0910007580716,4,35440.0,4,8229.048184655576,4,15.808694467933552,4,197.2198,4,432.7058694285709
 2,Croatia,2030,4,40.6266497211568,4,35440.0,4,8033.682599770484,4,14.888611721122617,4,174.04699999999997,4,329.3552638571426

@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Bulgaria,2020,4,54.981094639790406,4,89610.0,4,6227.902492497789,4,22.939906467734154,4,193.8,4,483.2341680000001
 1,Bulgaria,2025,4,53.9948853045526,4,89610.0,4,6114.995207018544,4,21.67821161200873,4,161.2512,4,430.6930962857141
 2,Bulgaria,2030,4,52.6783506381913,4,89610.0,4,5961.178367850518,4,20.416516756283347,4,146.4564,4,327.9088997142861

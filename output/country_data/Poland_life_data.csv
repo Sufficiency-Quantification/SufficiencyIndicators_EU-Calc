@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Poland,2020,4,29.294625690637297,4,483610.0,4,8929.048907146336,4,243.81596243814437,4,318.75,4,581.38736
 1,Poland,2025,4,28.155348792922496,4,483610.0,4,8860.021848777487,4,230.4060845040469,4,247.4379,4,518.8132828571428
 2,Poland,2030,4,26.7307969991353,4,483610.0,4,8692.349021909744,4,216.99620656994819,4,215.0233,4,394.5128514285711

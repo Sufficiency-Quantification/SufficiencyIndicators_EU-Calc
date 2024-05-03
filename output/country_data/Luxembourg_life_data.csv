@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Luxembourg,2020,4,51.7333758203171,4,14040.0,4,19279.54885516476,4,6.386336777186771,4,492.15,4,554.6028640000001
 1,Luxembourg,2025,4,49.3548380679483,4,14040.0,4,19289.16641118579,4,6.035088254441489,4,367.248,4,494.16564314285745
 2,Luxembourg,2030,4,46.9205739106251,4,14040.0,4,19188.897114482053,4,5.683839731696242,4,310.4744,4,376.337657714286

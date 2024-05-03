@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Netherlands,2020,4,56.32655491515091,4,557390.0,4,15536.208046586164,4,143.94117346429584,4,351.05,4,490.06768800000015
 1,Netherlands,2025,4,54.295188083465504,4,557390.0,4,15366.494137746558,4,136.02440892375975,4,269.4055,4,436.9976477142864
 2,Netherlands,2030,4,52.18590104393451,4,557390.0,4,15171.092736953486,4,128.10764438322326,4,232.29430000000005,4,332.5459311428573
