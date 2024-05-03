@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Malta,2020,4,73.5693784536357,4,3100.0,4,12887.31651850965,4,0.4469647211409449,4,283.9,4,562.5061499999999
 1,Malta,2025,4,72.1914235247776,4,3100.0,4,12988.272516873378,4,0.4223816614781944,4,222.61739999999995,4,500.81304642857197
 2,Malta,2030,4,70.54108227285269,4,3100.0,4,13087.22827737025,4,0.3977986018154417,4,194.7617,4,381.7006017857147

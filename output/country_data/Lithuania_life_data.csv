@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Lithuania,2020,4,32.5769731029854,4,50570.0,4,10199.93243433209,4,21.961986222174698,4,315.35,4,578.00512
 1,Lithuania,2025,4,31.5199200177324,4,50570.0,4,10065.920781836328,4,20.754076979955062,4,243.7336,4,515.2209871428573
 2,Lithuania,2030,4,30.1481298560218,4,50570.0,4,9825.890181755582,4,19.546167737735466,4,211.18079999999998,4,392.21776000000017

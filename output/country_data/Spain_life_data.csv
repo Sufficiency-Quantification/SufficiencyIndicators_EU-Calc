@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Spain,2020,4,55.7031252862815,4,348390.0,4,12423.57023932957,4,344.84119605736083,4,315.35,4,482.57284999999996
 1,Spain,2025,4,54.136281131984,4,348390.0,4,12417.206910134044,4,325.8749302742059,4,244.1814,4,429.09081071428557
 2,Spain,2030,4,52.4092597486635,4,348390.0,4,12394.787344616958,4,306.90866449105084,4,211.8322,4,327.4601482142853

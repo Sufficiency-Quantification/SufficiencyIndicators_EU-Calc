@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Switzerland,2020,4,46.00000000000001,4,557390.0,4,17775.802334793814,4,33.558501136279475,4,379.09999999999997,4,460.41551999999996
 1,Switzerland,2025,4,43.996609040098406,4,557390.0,4,17237.054849827906,4,31.712783573784183,4,289.06960000000004,4,410.6346942857142
 2,Switzerland,2030,4,41.99137272148841,4,557390.0,4,16728.3484769606,4,29.86706601128875,4,248.1466,4,312.4248171428566

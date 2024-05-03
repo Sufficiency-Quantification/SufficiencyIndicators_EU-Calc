@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Italy,2020,4,48.8485884135198,4,287280.0,4,13356.182633756485,4,394.21088405282853,4,311.95,4,590.0652320000002
 1,Italy,2025,4,47.5529510163324,4,287280.0,4,13567.036795974263,4,372.52928542992294,4,242.0666,4,525.3037537142857
 2,Italy,2030,4,46.0258209917755,4,287280.0,4,13770.784009343051,4,350.8476868070161,4,210.3014,4,400.401407428571

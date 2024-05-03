@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Cyprus,2020,4,87.1176820095082,4,8100.0,4,12099.034182418844,4,1.8769210006343549,4,270.3,4,408.3463999999999
 1,Cyprus,2025,4,85.9184795757221,4,8100.0,4,12172.202572971952,4,1.7736903455994626,4,213.6088,4,363.3562785714282
 2,Cyprus,2030,4,84.3556701665268,4,8100.0,4,12135.231708691981,4,1.670459690564577,4,187.8402,4,277.0921999999997

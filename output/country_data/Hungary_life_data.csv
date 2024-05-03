@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Hungary,2020,4,50.7147288669471,4,145180.0,4,8989.591689125353,4,47.601239045839314,4,257.55,4,463.54672000000016
 1,Hungary,2025,4,49.5419590617519,4,145180.0,4,8889.08275512432,4,44.98317089831804,4,205.7383,4,413.44313714285744
 2,Hungary,2030,4,48.1414304081989,4,145180.0,4,8756.81690019225,4,42.36510275079698,4,182.1876,4,314.5495600000004

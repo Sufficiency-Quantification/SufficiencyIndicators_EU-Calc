@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Romania,2020,4,19.8099680136065,4,62180.0,4,7271.185656299368,4,52.30492851761004,4,175.95,4,607.5397999999999
 1,Romania,2025,4,19.4180605953669,4,62180.0,4,7232.002486555003,4,49.42815744914152,4,148.7167,4,541.7016285714284
 2,Romania,2030,4,18.6517966702342,4,62180.0,4,7138.803144616322,4,46.55138638067299,4,136.3377,4,412.2591499999999

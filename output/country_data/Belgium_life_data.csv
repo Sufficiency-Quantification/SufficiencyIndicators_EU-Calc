@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Belgium,2020,4,38.8253076209885,4,186900.0,4,15271.544559178972,4,93.79594313350412,4,226.95,4,562.12078
 1,Belgium,2025,4,37.1578602970898,4,186900.0,4,15472.674839844763,4,88.63716626116138,4,182.5312,4,500.11114857142894
 2,Belgium,2030,4,35.3033542023329,4,186900.0,4,15624.66061788687,4,83.47838938881856,4,162.3409,4,381.4391007142862

@@ -1,4 +1,4 @@
-,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled,lever_freight_tkm,transported goods,lever_diet,meat consumption,lever_fwaste,food waste
+,Country,Years,lever_floor-intensity,living space,lever_nonres-floorarea,floor area in commercial and public buildings,lever_pkm,average distance travelled (inland+international),lever_freight_tkm,transported goods (inland+international),lever_diet,meat consumption,lever_fwaste,food waste
 0,Sweden,2020,4,48.0311815829737,4,186940.0,4,16443.17811014373,4,107.47744629950309,4,306.0,4,471.80890000000016
 1,Sweden,2025,4,46.4057640506559,4,186940.0,4,16561.753063583215,4,101.56618675303028,4,237.6696,4,420.01199285714284
 2,Sweden,2030,4,44.623788410249,4,186940.0,4,16628.435781340224,4,95.6549272065577,4,206.6105,4,320.15603928571386
